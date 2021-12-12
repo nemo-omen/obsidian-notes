@@ -1,6 +1,15 @@
 # Sets
 
-## Enumerated set notation
+## Number Sets
+### Natural numbers
 $$\large
-\mathbb{} = \lbrace  \rbrace
+\mathbb{N} = \lbrace 0,1,2,3,4,... \rbrace
+$$
+### Positive Integers
+$$\large
+\mathbb{P} = \lbrace 1,2,3,4,5,... \rbrace
+$$
+### Integers
+$$\large
+\mathbb{Z} = \lbrace  \rbrace
 $$
