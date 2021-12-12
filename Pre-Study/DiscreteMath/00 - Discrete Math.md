@@ -1,7 +1,8 @@
 # Discrete Math
-## KaTEX Symbol Cheatsheet
+## MathJax Cheatsheet
 $$
-\lbrace
-\rbrace
+\emptyset
 $$
+
+
 ## [[01 - sets]]
