@@ -1,0 +1,114 @@
+{
+  "main": {
+    "id": "4b70a6253816495f",
+    "type": "split",
+    "children": [
+      {
+        "id": "1e2a25756bc6dcd1",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "School/School.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bb66b271bbbe8b68",
+    "type": "split",
+    "children": [
+      {
+        "id": "58c9241fa9dcca1b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5f6e61fb88da1825",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "7d18cfb9fe94a7b5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c58c3442ba993456",
+    "type": "split",
+    "children": [
+      {
+        "id": "a1e9586f94f06bf2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "823f96cb3816913e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "School/School.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f40caf33a908535c",
+            "type": "leaf",
+            "state": {
+              "type": "Saved Queries View",
+              "state": {}
+            }
+          },
+          {
+            "id": "cc76ad8eca29d627",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "1e2a25756bc6dcd1",
+  "lastOpenFiles": [
+    "School/School.md",
+    "School/3304.md",
+    "School/m2305.md",
+    "School/e2311.md",
+    "School/3312.md",
+    "Untitled.md"
+  ]
+}
