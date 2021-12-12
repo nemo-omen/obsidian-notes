@@ -1,15 +1,17 @@
-# CWeb Programming
+# Web Programming
 
 ## Info
 __Instructor__: Rob LeGrand
 __E-mail__: rlegrand@angelo.edu  
 __Office__: MCS 205E  
-__Campus Phone__: (325) 486-5448
-__Text__: Kip Irvine, Assembly Language for x86 Processors (e-book, print-on-demand), 8th  Ed., Pearson, 2020. $59.99.  
-- Print ISBN: 9780135381656, 0135381657,  
-- eText ISBN: 9780135381793, 0135381797.
-__Meeting Time__: TR - 11:00 - 12:15
-__Classroom__: MCS 114
+__Campus Phone__: (325) 486-5422
+__Text__: No required text, suggested:
+	- JavaScript: The Good Parts by Douglas Crockford
+	- Learning Web Application Development by Semmy Purewal
+	- Speaking JavaScript by Axel Rauschmayer
+	- Programming JavaScript Applications by Eric Elliott
+__Meeting Time__: TR - 9:30 - 10:45
+__Classroom__: MCS 111A
 
 ## Schedule
 ### Week 1
