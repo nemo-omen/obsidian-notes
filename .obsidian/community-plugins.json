@@ -2,12 +2,12 @@
   "advanced-cursors",
   "obsidian-git",
   "table-editor-obsidian",
-  "obsidian-codemirror-options",
   "cm-editor-syntax-highlight-obsidian",
   "obsidian-plugin-toc",
   "buttons",
   "obsidian-style-settings",
+  "text-snippets-obsidian",
   "obsidian-latex",
   "quick-latex",
-  "text-snippets-obsidian"
+  "obsidian-codemirror-options"
 ]
