@@ -4,5 +4,7 @@
   "table-editor-obsidian",
   "obsidian-codemirror-options",
   "cm-editor-syntax-highlight-obsidian",
-  "obsidian-plugin-toc"
+  "obsidian-plugin-toc",
+  "buttons",
+  "obsidian-style-settings"
 ]

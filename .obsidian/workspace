@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "1e2a25756bc6dcd1",
+        "id": "4fc0d2bcb2ef7e6d",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "School/00 - School.md",
+            "file": "Pre-Study/DiscreteMath/00 - Discrete Math.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/00 - School.md",
+                "file": "Pre-Study/DiscreteMath/00 - Discrete Math.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,14 +102,15 @@
     "direction": "horizontal",
     "width": 436
   },
-  "active": "1e2a25756bc6dcd1",
+  "active": "4fc0d2bcb2ef7e6d",
   "lastOpenFiles": [
+    "Pre-Study/DiscreteMath/00 - Discrete Math.md",
+    "Pre-Study/DiscreteMath/01 - sets.md",
+    "School/Math 2305/00 - Discrete Mathematics.md",
     "School/00 - School.md",
     "School/English 2311/00 - Intro to Tech Writing.md",
     "School/3312/00 - Web Programming.md",
     "School/3304/00 - Comp Org and Assembly.md",
-    "School/Math 2305/00 - Discrete Mathematics.md",
-    "Pre-Study/DiscreteMath/00 - Discrete Math.md",
     "Pre-Study/Assembly/00 - Assembly.md"
   ]
 }
