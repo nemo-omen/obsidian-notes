@@ -41,3 +41,11 @@ $$\large
 \mathbb{I} = \lbrace \sqrt{-9}, i \rbrace
 $$
 ### Complex Numbers
+Real and Imaginary numbers
+$$\large
+\mathbb{C} = \lbrace \Bbb I , \Bbb R \rbrace
+$$
+
+$$\large
+\mathbb{A} = \{ x\mid x\gt 1 \}
+$$
