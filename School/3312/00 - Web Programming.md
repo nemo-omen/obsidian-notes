@@ -2,7 +2,7 @@
 
 ## Info
 __Instructor__: Rob LeGrand
-__E-mail__: lroychoudhuri@angelo.edu  
+__E-mail__: rlegrand@angelo.edu  
 __Office__: MCS 205E  
 __Campus Phone__: (325) 486-5448
 __Text__: Kip Irvine, Assembly Language for x86 Processors (e-book, print-on-demand), 8th  Ed., Pearson, 2020. $59.99.  
@@ -13,52 +13,49 @@ __Classroom__: MCS 114
 
 ## Schedule
 ### Week 1
-Ch1 Basic Concepts
+Intro to single-page applications
 
 ### Week 2
-Ch1 Basic Concepts
-Ch2 x86 Processor Architecture
+HTML Basics
 
 ### Week 3
-Ch2 x86 Processor Architecture
+CSS Basics
 
 ### Week 4
-Exam 1
-Ch3 Assembly Language Fundamentals
+JavaScript Basics
 
 ### Week 5
-Ch3 Assembly Language Fundamentals
+JavaScript Basics
 
 ### Week 6
-Ch4 Data Transfers, Addressing and Arithmetic
+JavaScript Arrays
 
 ### Week 7
-Ch4 Data Transfers, Addressing and Arithmetic
+Code Organization
 
 ### Week 8
-Ch5 Procedures
+Web Storage
 
 ### Week 9
-Ch5 Procedures
+The `canvas` element
 
 ### Week 10
-Ch6 Conditional Processing
+Timers
 
 ### Week 11
-Ch6 Conditional Processing
+Ajax Techniques and Responsive Design
 
 ### Week 12
-Exam 2
-Ch7 Integer Arithmetic
+Final Projects
 
 ### Week 13
-Ch7 Integer Arithmetic
+
 
 ### Week 14
-Ch8 Advanced Procedures
+
 
 ### Week 15
-Ch8 Advanced Procedures
+
 
 ### Week 16
-Final Exams
+
