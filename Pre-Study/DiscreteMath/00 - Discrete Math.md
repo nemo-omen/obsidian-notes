@@ -1,9 +1,13 @@
 # Discrete Math
 ## MathJax Cheatsheet
+```latex
+\Bbb N
+% renders natural numbers symbol
+```
 $$
-\emptyset
+\Bbb R = \lbrace 0,1,2,3,4, ... \rbrace
 $$
 
-$$ N $$
-$$ \$$
+
+
 ## [[01 - sets]]
