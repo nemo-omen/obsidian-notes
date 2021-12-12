@@ -1,5 +1,8 @@
 [
   "advanced-cursors",
   "obsidian-git",
-  "table-editor-obsidian"
+  "table-editor-obsidian",
+  "obsidian-codemirror-options",
+  "cm-editor-syntax-highlight-obsidian",
+  "obsidian-plugin-toc"
 ]
