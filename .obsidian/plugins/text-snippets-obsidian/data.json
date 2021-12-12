@@ -1,8 +1,8 @@
 {
-  "snippets_file": "snippets : It is an obsidian plugin, that replaces your selected text.\nmjb: $$\\Large $end$ $$",
+  "snippets_file": "snippets : It is an obsidian plugin, that replaces your selected text.\nmjb: '$$\\Large",
   "snippets": [
     "snippets : It is an obsidian plugin, that replaces your selected text.",
-    "mjb: $$\\Large $end$ $$"
+    "mjb: '$$\\Large"
   ],
   "endSymbol": "$end$",
   "newlineSymbol": "$nl$",
