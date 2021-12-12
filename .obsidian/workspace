@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Pre-Study/DiscreteMath/00 - Discrete Math.md",
+            "file": "Pre-Study/DiscreteMath/01 - sets.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pre-Study/DiscreteMath/00 - Discrete Math.md",
+                "file": "Pre-Study/DiscreteMath/01 - sets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,8 +104,8 @@
   },
   "active": "4fc0d2bcb2ef7e6d",
   "lastOpenFiles": [
-    "Pre-Study/DiscreteMath/00 - Discrete Math.md",
     "Pre-Study/DiscreteMath/01 - sets.md",
+    "Pre-Study/DiscreteMath/00 - Discrete Math.md",
     "School/Math 2305/00 - Discrete Mathematics.md",
     "School/00 - School.md",
     "School/English 2311/00 - Intro to Tech Writing.md",

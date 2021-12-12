@@ -4,8 +4,8 @@
 \Bbb N
 % renders natural numbers symbol
 ```
-$$
-\Bbb R = \lbrace 0,1,2,3,4, ... \rbrace
+$$\Large
+\Bbb N = \lbrace 0,1,2,3,4, ... \rbrace
 $$
 
 
