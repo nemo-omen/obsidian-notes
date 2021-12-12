@@ -1,8 +1,8 @@
 {
-  "snippets_file": "snippets : It is an obsidian plugin, that replaces your selected text.\nlgset: $$\\large \\lbrace ~tb~ \\rbrace $$ ~end~",
+  "snippets_file": "snippets : It is an obsidian plugin, that replaces your selected text.\nlgset: $$\\large~nl~\\mathbb{~tb~} = \\lbrace ~tb~ \\rbrace~nl~$$",
   "snippets": [
     "snippets : It is an obsidian plugin, that replaces your selected text.",
-    "lgset: $$\\large \\lbrace ~tb~ \\rbrace $$ ~end~"
+    "lgset: $$\\large~nl~\\mathbb{~tb~} = \\lbrace ~tb~ \\rbrace~nl~$$"
   ],
   "endSymbol": "~end~",
   "newlineSymbol": "~nl~",
@@ -10,5 +10,5 @@
   "pasteSymbol": "~pst~",
   "useTab": true,
   "useSpace": false,
-  "wordDelimiters": "()[]{}<>,.!?;:'\"\\/"
+  "wordDelimiters": "~()[]{}<>,.!?;:'\"\\/"
 }
