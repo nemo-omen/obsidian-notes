@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "School/0-root.md",
+            "file": "School/00 - School.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/0-root.md",
+                "file": "School/00 - School.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,11 +104,11 @@
   },
   "active": "1e2a25756bc6dcd1",
   "lastOpenFiles": [
-    "School/0-root.md",
-    "School/3304/3304.md",
-    "School/Math 2305/m2305.md",
-    "School/English 2301/e2311.md",
-    "School/3312/3312.md",
+    "School/00 - School.md",
+    "School/3304/00 - Comp Org and Assembly.md",
+    "School/Math 2305/00 - Discrete Mathematics.md",
+    "School/English 2301/00 - Intro to Tech Writing.md",
+    "School/3312/00 - Web Programming.md",
     "Untitled.md"
   ]
 }
