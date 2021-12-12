@@ -3,6 +3,5 @@
 $$
 \lbrace
 \rbrace
-\Al
 $$
 ## [[01 - sets]]
