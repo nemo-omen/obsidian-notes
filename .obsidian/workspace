@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "School/English 2301/00 - Intro to Tech Writing.md",
+            "file": "School/English 2311/00 - Intro to Tech Writing.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/English 2301/00 - Intro to Tech Writing.md",
+                "file": "School/English 2311/00 - Intro to Tech Writing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
   },
   "active": "1e2a25756bc6dcd1",
   "lastOpenFiles": [
-    "School/English 2301/00 - Intro to Tech Writing.md",
+    "School/English 2311/00 - Intro to Tech Writing.md",
     "School/3312/00 - Web Programming.md",
     "School/3304/00 - Comp Org and Assembly.md",
     "School/Math 2305/00 - Discrete Mathematics.md",
