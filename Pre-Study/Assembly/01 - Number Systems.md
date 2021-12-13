@@ -27,3 +27,8 @@ A binary digit is called a `bit`,
 ## Hexadecimal
 Base-16 numbers are composed of 16 possible digits, though those above `10` are represented by the letters (`A - F`). Each digit has the power of 16 associated with it.
 ![[Easy Decimal to Hex Conversion]]
+
+## Bits, Nibbles, Bytes
+A __bit__ is one binary digit (0, or 1)
+A __nibble__ is four binary digits ( 4 bits )
+A __byte__ is eight bits

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "General Notes/Easy Decimal to Hex Conversion.md",
+            "file": "Pre-Study/Assembly/01 - Number Systems.md",
             "mode": "source"
           }
         }
@@ -115,8 +115,8 @@
   "active": "8e96298d044f5d35",
   "lastOpenFiles": [
     "Pre-Study/Assembly/pcasm-book.pdf",
-    "General Notes/Easy Decimal to Hex Conversion.md",
     "Pre-Study/Assembly/01 - Number Systems.md",
+    "General Notes/Easy Decimal to Hex Conversion.md",
     "General Notes/Easy decimal to binary conversion.md",
     "Pre-Study/Assembly/00 - Assembly.md",
     "Pre-Study/Assembly/asm-step-by-step.pdf",
