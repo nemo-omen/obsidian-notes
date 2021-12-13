@@ -3,5 +3,6 @@
   "foldHeading": true,
   "showUnsupportedFiles": true,
   "alwaysUpdateLinks": true,
-  "showLineNumber": true
+  "showLineNumber": true,
+  "promptDelete": false
 }

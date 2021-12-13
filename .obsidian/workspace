@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Pre-Study/DiscreteMath/00 - Discrete Math.md",
+            "file": "Pre-Study/Assembly/01 - Number Systems.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pre-Study/DiscreteMath/00 - Discrete Math.md",
+                "file": "Pre-Study/Assembly/01 - Number Systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,13 +104,15 @@
   },
   "active": "4fc0d2bcb2ef7e6d",
   "lastOpenFiles": [
+    "Pre-Study/Assembly/01 - Number Systems.md",
+    "Pre-Study/Assembly/00 - Assembly.md",
+    "Pre-Study/Assembly/pcasm-book.pdf",
+    "pcasm-book.md",
     "Pre-Study/DiscreteMath/00 - Discrete Math.md",
     "Pre-Study/DiscreteMath/01 - sets.md",
     "School/Math 2305/00 - Discrete Mathematics.md",
     "School/00 - School.md",
     "School/English 2311/00 - Intro to Tech Writing.md",
-    "School/3312/00 - Web Programming.md",
-    "School/3304/00 - Comp Org and Assembly.md",
-    "Pre-Study/Assembly/00 - Assembly.md"
+    "School/3312/00 - Web Programming.md"
   ]
 }
