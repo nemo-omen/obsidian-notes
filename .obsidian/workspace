@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Pre-Study/Assembly/01.1 - Number Systems.md",
-            "mode": "preview"
+            "file": "General Notes/Easy Decimal to Hex Conversion.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pre-Study/Assembly/01.1 - Number Systems.md",
+                "file": "General Notes/Easy Decimal to Hex Conversion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,6 +104,8 @@
   },
   "active": "4fc0d2bcb2ef7e6d",
   "lastOpenFiles": [
+    "General Notes/Easy Decimal to Hex Conversion.md",
+    "General Notes/Easy decimal to binary conversion.md",
     "Pre-Study/Assembly/01.1 - Number Systems.md",
     "Pre-Study/Assembly/01.2 - Computer Organization.md",
     "Pre-Study/Assembly/01 - Number Systems.md",
@@ -111,8 +113,6 @@
     "Pre-Study/Assembly/pcasm-book.pdf",
     "pcasm-book.md",
     "Pre-Study/DiscreteMath/00 - Discrete Math.md",
-    "Pre-Study/DiscreteMath/01 - sets.md",
-    "School/Math 2305/00 - Discrete Mathematics.md",
-    "School/00 - School.md"
+    "Pre-Study/DiscreteMath/01 - sets.md"
   ]
 }
