@@ -15,10 +15,11 @@ Base-2 numbers are composed of 2 possible digits (0, 1). Each digit has the powe
 
 ### `55`
 
+
 | $2^5$ | $2^4$ | $2^3$ | $2^2$ | $2^1$ | $2^0$ |
 | ----- | ----- | ----- | ----- | ----- | ----- |
 | 1     | 1     |    0   | 1     | 1     | 1     |
 
-[[Easy decimal to binary conversion]]
+![[Easy decimal to binary conversion]]
 
 ## Hexadecimal
