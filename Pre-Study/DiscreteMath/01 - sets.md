@@ -24,7 +24,7 @@ $$\large
 $$
 Can also be written using __Set Builder Notation__
 $$\large
-\mathbb{Q} = \lbrace \frac{p}{q} | p \in \mathbb{Z}, p \in \Bbb Z, \text{and } q \ne 0 \rbrace
+\mathbb{Q} = \lbrace \frac{p}{q} \mid p \in \Bbb Z, \; p \in \Bbb Z, \; \text{and} \; q \ne 0 \rbrace
 $$
 
 ### Irrational Numbers
