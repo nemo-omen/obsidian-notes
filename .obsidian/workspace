@@ -13,6 +13,16 @@
             "mode": "source"
           }
         }
+      },
+      {
+        "id": "8e96298d044f5d35",
+        "type": "leaf",
+        "state": {
+          "type": "pdf",
+          "state": {
+            "file": "Pre-Study/Assembly/pcasm-book.pdf"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -68,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pre-Study/Assembly/01 - Number Systems.md",
+                "file": "Pre-Study/Assembly/pcasm-book.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,19 +110,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 182.5
+    "width": 254.5
   },
-  "active": "4fc0d2bcb2ef7e6d",
+  "active": "8e96298d044f5d35",
   "lastOpenFiles": [
-    "Pre-Study/Assembly/01 - Number Systems.md",
-    "General Notes/Easy decimal to binary conversion.md",
     "Pre-Study/Assembly/pcasm-book.pdf",
+    "Pre-Study/Assembly/01 - Number Systems.md",
+    "General Notes/Easy Decimal to Hex Conversion.md",
+    "General Notes/Easy decimal to binary conversion.md",
     "Pre-Study/Assembly/00 - Assembly.md",
     "Pre-Study/Assembly/asm-step-by-step.pdf",
     "pcasm-book.md",
     "Pre-Study/DiscreteMath/00 - Discrete Math.md",
     "Pre-Study/DiscreteMath/01 - sets.md",
-    "School/Math 2305/00 - Discrete Mathematics.md",
-    "School/00 - School.md"
+    "School/Math 2305/00 - Discrete Mathematics.md"
   ]
 }

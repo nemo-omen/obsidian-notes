@@ -13,6 +13,8 @@ Here's a breakdown, using the number `555`:
 ## Binary
 Base-2 numbers are composed of 2 possible digits (0, 1). Each digit has the power of 2 associated with it.
 
+A binary digit is called a `bit`, 
+
 ### `55`
 
 
@@ -23,3 +25,5 @@ Base-2 numbers are composed of 2 possible digits (0, 1). Each digit has the powe
 ![[Easy decimal to binary conversion]]
 
 ## Hexadecimal
+Base-16 numbers are composed of 16 possible digits, though those above `10` are represented by the letters (`A - F`). Each digit has the power of 16 associated with it.
+![[Easy Decimal to Hex Conversion]]
