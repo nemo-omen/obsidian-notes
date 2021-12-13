@@ -1,0 +1,101 @@
+{
+  "main": {
+    "id": "ec639e3d054b8685",
+    "type": "split",
+    "children": [
+      {
+        "id": "78c72e1e33db82be",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "3304/00 - Comp Org and Assembly.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "51223ed25c9c0a1c",
+    "type": "split",
+    "children": [
+      {
+        "id": "5f005acb933a7fc0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "725f333fe62e3641",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "129e0c8d64dd4fc2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cc3adc2ec4379240",
+    "type": "split",
+    "children": [
+      {
+        "id": "8263225030de576d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "53a1b0d28c07bd96",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "3304/00 - Comp Org and Assembly.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3ad3469d70f240f1",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "78c72e1e33db82be",
+  "lastOpenFiles": [
+    "3304/00 - Comp Org and Assembly.md"
+  ]
+}
