@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "General Notes/Easy Decimal to Hex Conversion.md",
+            "file": "General Notes/Easy decimal to binary conversion.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General Notes/Easy Decimal to Hex Conversion.md",
+                "file": "General Notes/Easy decimal to binary conversion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,8 +104,8 @@
   },
   "active": "4fc0d2bcb2ef7e6d",
   "lastOpenFiles": [
-    "General Notes/Easy Decimal to Hex Conversion.md",
     "General Notes/Easy decimal to binary conversion.md",
+    "General Notes/Easy Decimal to Hex Conversion.md",
     "Pre-Study/Assembly/01.1 - Number Systems.md",
     "Pre-Study/Assembly/01.2 - Computer Organization.md",
     "Pre-Study/Assembly/01 - Number Systems.md",
