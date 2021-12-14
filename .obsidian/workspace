@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Pre-Study/Discrete Math/01.1 - Sets - Introduction.md",
+            "file": "Pre-Study/Discrete Math/01.2 - Sets - Set Builder Notation.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Pre-Study/Discrete Math/01.1 - Sets - Introduction.md",
+            "file": "Pre-Study/Discrete Math/01.2 - Sets - Set Builder Notation.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pre-Study/Discrete Math/01.1 - Sets - Introduction.md",
+                "file": "Pre-Study/Discrete Math/01.2 - Sets - Set Builder Notation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,8 +118,8 @@
   },
   "active": "4fc0d2bcb2ef7e6d",
   "lastOpenFiles": [
-    "Pre-Study/Discrete Math/01.1 - Sets - Introduction.md",
     "Pre-Study/Discrete Math/01.2 - Sets - Set Builder Notation.md",
+    "Pre-Study/Discrete Math/01.1 - Sets - Introduction.md",
     "Pre-Study/Assembly/01.2 - Computer Organization.md",
     "Pre-Study/Assembly/01.1 - Number Systems.md",
     "conflict-files-obsidian-git.md",
