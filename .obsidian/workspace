@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Pre-Study/Assembly/01.1 - Number Systems.md",
+            "file": "Pre-Study/Assembly/01.2 - Computer Organization.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Pre-Study/Assembly/01.1 - Number Systems.md",
+            "file": "Pre-Study/Assembly/01.2 - Computer Organization.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pre-Study/Assembly/01.1 - Number Systems.md",
+                "file": "Pre-Study/Assembly/01.2 - Computer Organization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,8 +117,8 @@
   },
   "active": "4fc0d2bcb2ef7e6d",
   "lastOpenFiles": [
-    "Pre-Study/Assembly/01.1 - Number Systems.md",
     "Pre-Study/Assembly/01.2 - Computer Organization.md",
+    "Pre-Study/Assembly/01.1 - Number Systems.md",
     "conflict-files-obsidian-git.md",
     "General Notes/Easy Decimal to Hex Conversion.md",
     "General Notes/Easy decimal to binary conversion.md",
