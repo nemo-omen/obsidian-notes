@@ -12,6 +12,30 @@
             "file": "Pre-Study/Assembly/01.2 - Computer Organization.md",
             "mode": "source"
           }
+        },
+        "group": "72ff5e6f744df4c7"
+      },
+      {
+        "id": "ed4461fe89c9233d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Pre-Study/Assembly/01.2 - Computer Organization.md",
+            "mode": "preview"
+          }
+        },
+        "group": "72ff5e6f744df4c7"
+      },
+      {
+        "id": "6d840c6297854c0b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "conflict-files-obsidian-git.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -68,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pre-Study/Assembly/01.2 - Computer Organization.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,8 +126,9 @@
     "direction": "horizontal",
     "width": 333.5
   },
-  "active": "4fc0d2bcb2ef7e6d",
+  "active": "6d840c6297854c0b",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "Pre-Study/Assembly/01.2 - Computer Organization.md",
     "Pre-Study/Assembly/01.1 - Number Systems.md",
     "General Notes/Easy Decimal to Hex Conversion.md",
@@ -112,7 +137,6 @@
     "Pre-Study/Assembly/00 - Assembly.md",
     "Pre-Study/Assembly/pcasm-book.pdf",
     "pcasm-book.md",
-    "Pre-Study/DiscreteMath/00 - Discrete Math.md",
-    "Pre-Study/DiscreteMath/01 - sets.md"
+    "Pre-Study/DiscreteMath/00 - Discrete Math.md"
   ]
 }
