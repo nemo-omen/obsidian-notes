@@ -1,4 +1,13 @@
 # Sets
+- A set is a collection of <u>unordered</u>, <u>distinct</u> objects.
+	- $\{0,1,5\} = \{1,5,0\}$
+- <u>Can be numbers</u>, <u>can be something else</u>.
+- Repeated elements are olny listed once
+	- $\{0,0,0,1,5,5\} = \{0,1,5\}$
+- Can be <u>finite</u> or <u>infinite</u>
+	- $A=\{0,1,5\}$
+	- $Z=\{..., -2,-1,0,1,2,...\}$
+
 
 ## Number Sets
 ### Natural numbers

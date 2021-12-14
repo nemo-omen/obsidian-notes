@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Pre-Study/Assembly/01.2 - Computer Organization.md",
+            "file": "Pre-Study/Discrete Math/01 - sets.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Pre-Study/Assembly/01.2 - Computer Organization.md",
+            "file": "Pre-Study/Discrete Math/01 - sets.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pre-Study/Assembly/01.2 - Computer Organization.md",
+                "file": "Pre-Study/Discrete Math/01 - sets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,10 +113,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 248.5
+    "width": 248.5,
+    "collapsed": true
   },
   "active": "4fc0d2bcb2ef7e6d",
   "lastOpenFiles": [
+    "Pre-Study/Discrete Math/01 - sets.md",
     "Pre-Study/Assembly/01.2 - Computer Organization.md",
     "Pre-Study/Assembly/01.1 - Number Systems.md",
     "conflict-files-obsidian-git.md",
@@ -125,7 +127,6 @@
     "Pre-Study/Assembly/01 - Number Systems.md",
     "Pre-Study/Assembly/00 - Assembly.md",
     "Pre-Study/Assembly/pcasm-book.pdf",
-    "pcasm-book.md",
-    "Pre-Study/DiscreteMath/00 - Discrete Math.md"
+    "pcasm-book.md"
   ]
 }
