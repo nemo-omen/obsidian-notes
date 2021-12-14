@@ -14,4 +14,4 @@ $$
 $$\Large
 \Bbb N = \lbrace 0,\;1,\;2,\;3,\;4,\; ... \rbrace
 $$
-## [[01 - sets]]
+## [[01.1 - Sets - Introduction]]

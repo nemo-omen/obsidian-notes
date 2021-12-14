@@ -1,9 +1,9 @@
 {
-  "snippets_file": "snippets : It is an obsidian plugin, that replaces your selected text.\nset : $$\\large<nl>\\mathbb{<tb>} = \\lbrace <end> \\rbrace<nl>$$\nsetb : $$\\large<nl>\\mathbb{<tb>} = \\{ <end> \\}<nl>$$",
+  "snippets_file": "snippets : It is an obsidian plugin, that replaces your selected text.\nsetb : $\\large<nl>\\Bbb{<tb>} = \\{ <end> \\}<nl>$\nset : $\\large<nl><tb> = \\{ <end> \\}<nl>$",
   "snippets": [
     "snippets : It is an obsidian plugin, that replaces your selected text.",
-    "set : $$\\large<nl>\\mathbb{<tb>} = \\lbrace <end> \\rbrace<nl>$$",
-    "setb : $$\\large<nl>\\mathbb{<tb>} = \\{ <end> \\}<nl>$$"
+    "setb : $\\large<nl>\\Bbb{<tb>} = \\{ <end> \\}<nl>$",
+    "set : $\\large<nl><tb> = \\{ <end> \\}<nl>$"
   ],
   "endSymbol": "<end>",
   "newlineSymbol": "<nl>",
