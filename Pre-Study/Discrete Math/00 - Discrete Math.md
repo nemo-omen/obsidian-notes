@@ -211,15 +211,7 @@ $$\Large \Leftrightarrow$$
 ```
 
 
-
-
-
-
-
-
-
-
-
+[Relational Operators](https://www.geeksforgeeks.org/relational-operators-in-latex/?ref=lbp)
 
 
 ## [[01.1 - Sets - Introduction]]
