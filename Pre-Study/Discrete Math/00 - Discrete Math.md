@@ -49,11 +49,39 @@ $$\Large \subset$$
 %is proper subset of
 ```
 
+$$\Large \not\subset$$
+
+```latex
+\not\subset
+%not a proper subset of
+```
+
 $$\Large \subseteq$$
 
 ```latex
 \subseteq
 %is subset of
+```
+
+$$\Large \nsubseteq$$
+
+```latex
+\nsubseteq
+%is not a subset of
+```
+
+$$\Large \supset$$
+
+```latex
+\supset
+%is a proper superset of
+```
+
+$$\Large \not\supset$$
+
+```latex
+\not\supset
+%not a superset of
 ```
 
 $$\Large \supseteq$$
