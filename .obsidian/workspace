@@ -115,6 +115,14 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "0272cc590f54ab00",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
         "currentTab": 2
