@@ -79,6 +79,7 @@ $$\Large \cap$$
 
 $$\Large :$$
 $$\Large \mid$$
+
 ```latex
 :
 %such that
@@ -87,6 +88,109 @@ $$\Large \mid$$
 ```
 
 ### Logic Notation
+
+
+$$\Large \exists$$
+
+
+```latex
+\exists
+%there exists at least one
+```
+
+$$\Large \exists!$$
+
+```latex
+\exists!
+%there exists one and only one
+```
+
+$$\Large \forall$$
+
+```latex
+\forall
+%for all
+```
+
+$$\Large \neg$$
+
+```latex
+\neg
+%not (logical not)
+```
+
+$$\Large \lor$$
+
+```latex
+\lor
+%logical or
+```
+
+$$\Large \div$$
+
+```latex
+\div
+%division
+```
+
+$$\Large \land$$
+
+```latex
+\land
+%logical and
+```
+
+$$\Large \implies$$
+
+```latex
+\implies
+%implies
+```
+
+$$\Large \Rightarrow$$
+
+```latex
+\Rightarrow
+%right implication
+```
+
+$$\Large \Longleftarrow$$
+
+```latex
+\Longleftarrow
+%is implied by (only if)
+```
+
+$$\Large \Leftarrow$$
+
+```latex
+\Leftarrow
+%left implication
+```
+
+$$\Large \iff$$
+
+```latex
+\iff
+%if and only if
+```
+
+$$\Large \Leftrightarrow$$
+
+```latex
+\Leftrightarrow
+%equivalence
+```
+
+
+
+
+
+
+
+
+
+
 
 
 
