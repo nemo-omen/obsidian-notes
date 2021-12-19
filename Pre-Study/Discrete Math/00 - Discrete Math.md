@@ -1,7 +1,7 @@
 # Discrete Math
 ## MathJax Cheatsheet
 
-
+[[01.1 - Sets - Introduction]]
 ### Set Notation
 $$\Large
 \Bbb N = \lbrace 0,1,2,3,4, ... \rbrace
@@ -21,12 +21,15 @@ $$
 % renders a large space between elements
 ```
 
+##### Is member
 $$\Large \in$$
 
 ```latex
 \in
 %is member of
 ```
+
+##### Is not member
 
 $$\Large \notin$$
 
@@ -35,12 +38,16 @@ $$\Large \notin$$
 %is not a member of
 ```
 
+##### Has member
+
 $$\Large \ni$$
 
 ```latex
 \ni
 %owns (has member)
 ```
+
+##### Proper subset
 
 $$\Large \subset$$
 
@@ -49,12 +56,16 @@ $$\Large \subset$$
 %is proper subset of
 ```
 
+##### Not proper subset
+
 $$\Large \not\subset$$
 
 ```latex
 \not\subset
 %not a proper subset of
 ```
+
+##### Subset
 
 $$\Large \subseteq$$
 
@@ -63,12 +74,16 @@ $$\Large \subseteq$$
 %is subset of
 ```
 
+##### Not Subset
+
 $$\Large \nsubseteq$$
 
 ```latex
 \nsubseteq
 %is not a subset of
 ```
+
+##### Superset
 
 $$\Large \supset$$
 
@@ -77,12 +92,16 @@ $$\Large \supset$$
 %is a proper superset of
 ```
 
+##### Not superset
+
 $$\Large \not\supset$$
 
 ```latex
 \not\supset
 %not a superset of
 ```
+
+##### Is superset of
 
 $$\Large \supseteq$$
 
@@ -91,12 +110,16 @@ $$\Large \supseteq$$
 %is superset of
 ```
 
+##### Union
+
 $$\Large \cup$$
 
 ```latex
 \cup
 %set union
 ```
+
+##### Intersection
 
 $$\Large \cap$$
 
@@ -105,6 +128,7 @@ $$\Large \cap$$
 %set intersection
 ```
 
+##### Such that
 $$\Large :$$
 $$\Large \mid$$
 
@@ -117,6 +141,7 @@ $$\Large \mid$$
 
 ### Logic Notation
 
+##### Exists at least one
 
 $$\Large \exists$$
 
@@ -126,12 +151,16 @@ $$\Large \exists$$
 %there exists at least one
 ```
 
+##### Exists one and only one
+
 $$\Large \exists!$$
 
 ```latex
 \exists!
 %there exists one and only one
 ```
+
+##### For all
 
 $$\Large \forall$$
 
@@ -140,12 +169,16 @@ $$\Large \forall$$
 %for all
 ```
 
+##### Not
+
 $$\Large \neg$$
 
 ```latex
 \neg
 %not (logical not)
 ```
+
+##### Logical or
 
 $$\Large \lor$$
 
@@ -154,12 +187,7 @@ $$\Large \lor$$
 %logical or
 ```
 
-$$\Large \div$$
-
-```latex
-\div
-%division
-```
+##### Logical and
 
 $$\Large \land$$
 
@@ -168,12 +196,16 @@ $$\Large \land$$
 %logical and
 ```
 
+##### Implies
+
 $$\Large \implies$$
 
 ```latex
 \implies
 %implies
 ```
+
+##### Right implication
 
 $$\Large \Rightarrow$$
 
@@ -182,12 +214,16 @@ $$\Large \Rightarrow$$
 %right implication
 ```
 
+##### Implied by
+
 $$\Large \Longleftarrow$$
 
 ```latex
 \Longleftarrow
 %is implied by (only if)
 ```
+
+##### Left implication
 
 $$\Large \Leftarrow$$
 
@@ -196,12 +232,16 @@ $$\Large \Leftarrow$$
 %left implication
 ```
 
+##### If and only if
+
 $$\Large \iff$$
 
 ```latex
 \iff
 %if and only if
 ```
+
+##### Equivalence
 
 $$\Large \Leftrightarrow$$
 
@@ -212,6 +252,3 @@ $$\Large \Leftrightarrow$$
 
 
 [Relational Operators](https://www.geeksforgeeks.org/relational-operators-in-latex/?ref=lbp)
-
-
-## [[01.1 - Sets - Introduction]]
