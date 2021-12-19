@@ -9,19 +9,46 @@
 
 [Relational Operators](https://www.geeksforgeeks.org/relational-operators-in-latex/?ref=lbp)
 
+- [[#Sets|Sets]]
+		- [[#Universal set|Universal set]]
+- [[#Set Notation|Set Notation]]
+		- [[#Is member|Is member]]
+		- [[#Is not member|Is not member]]
+		- [[#Has member|Has member]]
+		- [[#Proper subset|Proper subset]]
+		- [[#Not proper subset|Not proper subset]]
+		- [[#Subset|Subset]]
+		- [[#Not Subset|Not Subset]]
+		- [[#Superset|Superset]]
+		- [[#Not superset|Not superset]]
+		- [[#Is superset of|Is superset of]]
+		- [[#Union|Union]]
+		- [[#Intersection|Intersection]]
+		- [[#Such that|Such that]]
+- [[#Logic Notation|Logic Notation]]
+		- [[#Exists at least one|Exists at least one]]
+		- [[#Exists one and only one|Exists one and only one]]
+		- [[#For all|For all]]
+		- [[#Not|Not]]
+		- [[#Logical or|Logical or]]
+		- [[#Logical and|Logical and]]
+		- [[#Implies|Implies]]
+		- [[#Right implication|Right implication]]
+		- [[#Implied by|Implied by]]
+		- [[#Left implication|Left implication]]
+		- [[#If and only if|If and only if]]
+		- [[#Equivalence|Equivalence]]
+
+
 ### Sets
 
 ##### Universal set
 
-
 $$\Large \Bbb U $$
-
 
 ```latex
 $$\Large \Bbb U$$
 ```
-
-
 
 ### Set Notation
 $$\Large
