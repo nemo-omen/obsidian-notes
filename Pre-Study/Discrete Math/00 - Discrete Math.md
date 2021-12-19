@@ -2,6 +2,27 @@
 ## MathJax Cheatsheet
 
 [[01.1 - Sets - Introduction]]
+
+[ProofWiki LaTEX Commands](https://proofwiki.org/wiki/Symbols:LaTeX_Commands/ProofWiki_Specific)
+
+[Discrete Math: An Open Introduction - Symbols](http://discrete.openmathbooks.org/dmoi3/appendix-1.html)
+
+[Relational Operators](https://www.geeksforgeeks.org/relational-operators-in-latex/?ref=lbp)
+
+### Sets
+
+##### Universal set
+
+
+$$\Large \Bbb U $$
+
+
+```latex
+$$\Large \Bbb U$$
+```
+
+
+
 ### Set Notation
 $$\Large
 \Bbb N = \lbrace 0,1,2,3,4, ... \rbrace
@@ -250,5 +271,3 @@ $$\Large \Leftrightarrow$$
 %equivalence
 ```
 
-
-[Relational Operators](https://www.geeksforgeeks.org/relational-operators-in-latex/?ref=lbp)
