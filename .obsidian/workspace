@@ -9,10 +9,23 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Pre-Study/Discrete Math/00 - Discrete Math.md",
+            "file": "Pre-Study/Discrete Math/01.3 - The Empty Set.md",
+            "mode": "source"
+          }
+        },
+        "group": "72ff5e6f744df4c7"
+      },
+      {
+        "id": "ed4461fe89c9233d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Pre-Study/Discrete Math/01.3 - The Empty Set.md",
             "mode": "preview"
           }
-        }
+        },
+        "group": "72ff5e6f744df4c7"
       }
     ],
     "direction": "vertical"
@@ -68,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pre-Study/Discrete Math/00 - Discrete Math.md",
+                "file": "Pre-Study/Discrete Math/01.3 - The Empty Set.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -80,7 +93,7 @@
             }
           },
           {
-            "id": "72257402e87248eb",
+            "id": "f40caf33a908535c",
             "type": "leaf",
             "state": {
               "type": "Saved Queries View",
@@ -88,18 +101,10 @@
             }
           },
           {
-            "id": "93cbea06f3a77cf8",
+            "id": "cc76ad8eca29d627",
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "0272cc590f54ab00",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
               "state": {}
             }
           }
@@ -108,19 +113,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 254.5
+    "width": 248.5,
+    "collapsed": true
   },
   "active": "4fc0d2bcb2ef7e6d",
   "lastOpenFiles": [
-    "Pre-Study/Discrete Math/00 - Discrete Math.md",
+    "Pre-Study/Discrete Math/01.3 - The Empty Set.md",
     "Pre-Study/Discrete Math/01.2 - Sets - Set Builder Notation.md",
-    "Pre-Study/Assembly/01.1 - Number Systems.md",
-    "Pre-Study/Assembly/pcasm-book.pdf",
+    "Pre-Study/Discrete Math/00 - Discrete Math.md",
+    "Pre-Study/Discrete Math/01.1 - Sets - Introduction.md",
     "Pre-Study/Assembly/01.2 - Computer Organization.md",
+    "Pre-Study/Assembly/01.1 - Number Systems.md",
+    "conflict-files-obsidian-git.md",
     "General Notes/Easy Decimal to Hex Conversion.md",
     "General Notes/Easy decimal to binary conversion.md",
-    "Pre-Study/Assembly/00 - Assembly.md",
-    "Pre-Study/Assembly/asm-step-by-step.pdf",
-    "pcasm-book.md"
+    "Pre-Study/Assembly/01 - Number Systems.md"
   ]
 }

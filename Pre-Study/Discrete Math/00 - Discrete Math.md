@@ -50,6 +50,16 @@ $$\Large \Bbb U $$
 $$\Large \Bbb U$$
 ```
 
+##### Empty Set
+
+$$\Large \Bbb \emptyset = \{\} $$
+
+
+```latex
+$$\Large \Bbb \emptyset = \{\} $$
+```
+
+
 ### Set Notation
 $$\Large
 \Bbb N = \lbrace 0,1,2,3,4, ... \rbrace
