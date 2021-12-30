@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Pre-Study/Discrete Math/00 - Discrete Math.md",
-            "mode": "preview"
+            "file": "Top Stories of 2021.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pre-Study/Discrete Math/00 - Discrete Math.md",
+                "file": "Top Stories of 2021.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,6 +112,7 @@
   },
   "active": "4fc0d2bcb2ef7e6d",
   "lastOpenFiles": [
+    "Top Stories of 2021.md",
     "Pre-Study/Discrete Math/00 - Discrete Math.md",
     "Pre-Study/Discrete Math/01.2 - Sets - Set Builder Notation.md",
     "Pre-Study/Assembly/01.1 - Number Systems.md",
@@ -120,7 +121,6 @@
     "General Notes/Easy Decimal to Hex Conversion.md",
     "General Notes/Easy decimal to binary conversion.md",
     "Pre-Study/Assembly/00 - Assembly.md",
-    "Pre-Study/Assembly/asm-step-by-step.pdf",
-    "pcasm-book.md"
+    "Pre-Study/Assembly/asm-step-by-step.pdf"
   ]
 }
