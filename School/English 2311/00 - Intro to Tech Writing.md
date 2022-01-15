@@ -11,8 +11,8 @@ __Classroom__: Online
 
 ## Schedule
 ### Week 1 — Sunday, January 23
-1. [ ] Read course syllabus
-2. [ ] Read how to change bb picture handout
+1. [x] Read course syllabus
+2. [x] Read how to change bb picture handout
 3. [ ] Watch Lecture 1
 4. [ ] Assigned readings/videos
 	1. [ ] ["The 10 Skills Employers Most Want"](https://www.forbes.com/sites/susanadams/2014/11/12/the-10-skills-employers-most-want-in-2015-graduates/#7c1aa4c25116)
