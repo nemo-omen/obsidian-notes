@@ -7,9 +7,10 @@
         "id": "4fc0d2bcb2ef7e6d",
         "type": "leaf",
         "state": {
-          "type": "pdf",
+          "type": "markdown",
           "state": {
-            "file": "School/3304/CS3304_Spring_2022_Syllabus.pdf"
+            "file": "Pre-Study/Discrete Math/00 - Discrete Math.md",
+            "mode": "source"
           }
         }
       }
@@ -67,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/3304/CS3304_Spring_2022_Syllabus.pdf",
+                "file": "Pre-Study/Discrete Math/00 - Discrete Math.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,13 +112,13 @@
   },
   "active": "4fc0d2bcb2ef7e6d",
   "lastOpenFiles": [
+    "Pre-Study/Discrete Math/00 - Discrete Math.md",
     "School/3304/CS3304_Spring_2022_Syllabus.pdf",
     "School/3304/000 - Resources.md",
     "School/3304/00 - Comp Org and Assembly.md",
     "School/3312/Syllabus.pdf",
     "School/English 2311/00 - Intro to Tech Writing.md",
     "Top Stories of 2021.md",
-    "Pre-Study/Discrete Math/00 - Discrete Math.md",
     "Pre-Study/Discrete Math/01.2 - Sets - Set Builder Notation.md",
     "Pre-Study/Assembly/01.1 - Number Systems.md",
     "Pre-Study/Assembly/pcasm-book.pdf"
