@@ -9,8 +9,18 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Pre-Study/Discrete Math/00 - Discrete Math.md",
+            "file": "School/3304/00 - Comp Org and Assembly.md",
             "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "a0477fe51ca436a4",
+        "type": "leaf",
+        "state": {
+          "type": "pdf",
+          "state": {
+            "file": "School/3304/CS3304_Spring_2022_Syllabus.pdf"
           }
         }
       }
@@ -52,7 +62,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "c58c3442ba993456",
@@ -68,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pre-Study/Discrete Math/00 - Discrete Math.md",
+                "file": "School/3304/00 - Comp Org and Assembly.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,11 +123,11 @@
   },
   "active": "4fc0d2bcb2ef7e6d",
   "lastOpenFiles": [
-    "Pre-Study/Discrete Math/00 - Discrete Math.md",
-    "School/3304/CS3304_Spring_2022_Syllabus.pdf",
-    "School/3304/000 - Resources.md",
     "School/3304/00 - Comp Org and Assembly.md",
+    "School/3304/CS3304_Spring_2022_Syllabus.pdf",
     "School/3312/Syllabus.pdf",
+    "Pre-Study/Discrete Math/00 - Discrete Math.md",
+    "School/3304/000 - Resources.md",
     "School/English 2311/00 - Intro to Tech Writing.md",
     "Top Stories of 2021.md",
     "Pre-Study/Discrete Math/01.2 - Sets - Set Builder Notation.md",
