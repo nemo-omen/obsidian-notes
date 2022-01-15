@@ -16,12 +16,9 @@ __Classroom__: Online
 3. [ ] Watch Lecture 1
 4. [ ] Assigned readings/videos
 	1. [ ] ["The 10 Skills Employers Most Want"](https://www.forbes.com/sites/susanadams/2014/11/12/the-10-skills-employers-most-want-in-2015-graduates/#7c1aa4c25116)
-	2. ["What to Do With Your Life"](https://youtu.be/3lkn8MS3n8Q)
-	3. 1.  "Write for Your Life," page 265-267 (5th ed. 280) of the _NFGW_ (_The Norton Field Guide to Writing with Readings_)
-5. Quiz 1
-	1. Read required articles and videos
-	2. This week's lecture
-	3. Read syllabus
+	2. [ ] ["What to Do With Your Life"](https://youtu.be/3lkn8MS3n8Q)
+	3. [ ] "Write for Your Life," page 265-267 (5th ed. 280) of the _NFGW_ (_The Norton Field Guide to Writing with Readings_)
+5. [ ] Quiz 1
 6. [x] Upload photo to Blackboard
 7. Discussion Board 1
 
