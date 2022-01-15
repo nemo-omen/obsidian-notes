@@ -20,7 +20,8 @@ __Classroom__: Online
 	3. [ ] "Write for Your Life," page 265-267 (5th ed. 280) of the _NFGW_ (_The Norton Field Guide to Writing with Readings_)
 5. [ ] Quiz 1
 6. [x] Upload photo to Blackboard
-7. Discussion Board 1
+7. [ ] Discussion Board 1
+8. [ ] Respond to peers
 
 ### Week 2 — Sunday, December 30
 
