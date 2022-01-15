@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "School/001 - Weekly Schedule.md",
+            "file": "School/English 2311/00 - Intro to Tech Writing.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/001 - Weekly Schedule.md",
+                "file": "School/English 2311/00 - Intro to Tech Writing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,8 +104,8 @@
   },
   "active": "4fc0d2bcb2ef7e6d",
   "lastOpenFiles": [
-    "School/001 - Weekly Schedule.md",
     "School/English 2311/00 - Intro to Tech Writing.md",
+    "School/001 - Weekly Schedule.md",
     "conflict-files-obsidian-git.md",
     "Pre-Study/Discrete Math/01.4 - Subsets.md",
     "Pre-Study/Discrete Math/00 - Discrete Math.md",
