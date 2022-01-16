@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "School/00 - School.md",
+            "file": "JSNinja/03 - First Class Functions.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/00 - School.md",
+                "file": "JSNinja/03 - First Class Functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,6 +112,7 @@
   },
   "active": "4fc0d2bcb2ef7e6d",
   "lastOpenFiles": [
+    "JSNinja/03 - First Class Functions.md",
     "School/00 - School.md",
     "School/001 - Weekly Schedule.md",
     "School/3304/001 - x86-64 Registers.md",
@@ -120,7 +121,6 @@
     "School/3304/CS3304_Spring_2022_Syllabus.pdf",
     "School/3312/Syllabus.pdf",
     "Pre-Study/Discrete Math/00 - Discrete Math.md",
-    "School/English 2311/00 - Intro to Tech Writing.md",
-    "Top Stories of 2021.md"
+    "School/English 2311/00 - Intro to Tech Writing.md"
   ]
 }
