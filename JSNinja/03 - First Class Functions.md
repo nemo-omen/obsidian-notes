@@ -1,2 +1,2 @@
 # First Class Functions for the Novice
-## Defin
+## Definitions and arguments
