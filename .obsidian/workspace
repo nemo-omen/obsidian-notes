@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "School/3304/000 - MASM Resources.md",
-            "mode": "source"
+            "file": "School/3304/001 - x86-64 Registers.md",
+            "mode": "preview"
           }
         }
       }
@@ -52,7 +52,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "c58c3442ba993456",
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/3304/000 - MASM Resources.md",
+                "file": "School/3304/001 - x86-64 Registers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -112,6 +113,7 @@
   },
   "active": "4fc0d2bcb2ef7e6d",
   "lastOpenFiles": [
+    "School/3304/001 - x86-64 Registers.md",
     "School/3304/000 - MASM Resources.md",
     "School/3304/00 - Comp Org and Assembly.md",
     "School/3304/CS3304_Spring_2022_Syllabus.pdf",
@@ -120,7 +122,6 @@
     "School/English 2311/00 - Intro to Tech Writing.md",
     "Top Stories of 2021.md",
     "Pre-Study/Discrete Math/01.2 - Sets - Set Builder Notation.md",
-    "Pre-Study/Assembly/01.1 - Number Systems.md",
-    "Pre-Study/Assembly/pcasm-book.pdf"
+    "Pre-Study/Assembly/01.1 - Number Systems.md"
   ]
 }
