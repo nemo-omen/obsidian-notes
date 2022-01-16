@@ -11,6 +11,8 @@ __Text__: Kip Irvine, Assembly Language for x86 Processors (e-book, print-on-dem
 __Meeting Time__: TR - 11:00 - 12:15
 __Classroom__: MCS 114
 
+[[000 - MASM Resources]]
+
 ## Schedule
 ### Week 1
 Ch1 Basic Concepts
