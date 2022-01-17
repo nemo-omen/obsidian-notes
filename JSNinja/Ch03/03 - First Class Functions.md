@@ -8,7 +8,7 @@ function whatever(myCallback) {
 }
 ```
 
-_example_01_
+[[example_01.js]]
 ```js
 import { assert, report } from '../util.js';
 
