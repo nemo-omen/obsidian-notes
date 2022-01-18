@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "School/3304/01 - Basic Concepts/1.2 - Virtual Machine Concept.md",
+            "file": "School/Math 2305/00 - Discrete Mathematics.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/3304/01 - Basic Concepts/1.2 - Virtual Machine Concept.md",
+                "file": "School/Math 2305/00 - Discrete Mathematics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,6 +112,8 @@
   },
   "active": "4fc0d2bcb2ef7e6d",
   "lastOpenFiles": [
+    "School/Math 2305/00 - Discrete Mathematics.md",
+    "School/Math 2305/2305 Syllabus SP 2022.pdf",
     "School/3304/01 - Basic Concepts/1.2 - Virtual Machine Concept.md",
     "School/3304/00 - Comp Org and Assembly.md",
     "JSNinja/Ch03/03 - First Class Functions.md",
@@ -119,8 +121,6 @@
     "School/001 - Weekly Schedule.md",
     "School/3304/001 - x86-64 Registers.md",
     "School/3304/000 - MASM Resources.md",
-    "School/3304/CS3304_Spring_2022_Syllabus.pdf",
-    "School/3312/Syllabus.pdf",
-    "Pre-Study/Discrete Math/00 - Discrete Math.md"
+    "School/3304/CS3304_Spring_2022_Syllabus.pdf"
   ]
 }

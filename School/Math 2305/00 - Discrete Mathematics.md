@@ -2,6 +2,7 @@
 
 ## Info
 __Instructor__: Mario Barrientos
+__Email__:  mario.barrientos@angelo.edu
 __Text__: Discrete Mathematics: Elementary and Beyond by L. Lovász and K. Vesztergombi ISBN 0-387-95585-2.
 __Meeting Time__: TR - 12:30 pm - 1:45 pm
 __Classroom__: MCS 110
