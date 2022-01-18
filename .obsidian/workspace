@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "School/Math 2305/00 - Discrete Mathematics.md",
+            "file": "School/3304/00 - Comp Org and Assembly.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/Math 2305/00 - Discrete Mathematics.md",
+                "file": "School/3304/00 - Comp Org and Assembly.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,10 +112,10 @@
   },
   "active": "4fc0d2bcb2ef7e6d",
   "lastOpenFiles": [
+    "School/3304/00 - Comp Org and Assembly.md",
     "School/Math 2305/00 - Discrete Mathematics.md",
     "School/Math 2305/2305 Syllabus SP 2022.pdf",
     "School/3304/01 - Basic Concepts/1.2 - Virtual Machine Concept.md",
-    "School/3304/00 - Comp Org and Assembly.md",
     "JSNinja/Ch03/03 - First Class Functions.md",
     "School/00 - School.md",
     "School/001 - Weekly Schedule.md",
